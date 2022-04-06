@@ -6,7 +6,7 @@ The purpose of this project was to gain baseline experience using SwiftUI to tak
 
 The user will be presented with a button and a text field. When they press the button the text field will populate with a compliment randomly selected from a list of compliments loaded in from a json file. I chose to go this route for future functionality as well as getting practice loading in data to be used within a SwiftUI app.
 
-[Complimenter App Demo Video](not-a-link.com)
+[Complimenter App Demo Video](https://youtu.be/L9Ixw-ORpn8)
 
 # Development Environment
 
